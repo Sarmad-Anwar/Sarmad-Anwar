@@ -22,8 +22,8 @@ I’m looking to collaborate on open-source projects that:
 
 ## 📫 Let's Connect!
 I'm always open to discussing new opportunities, sharing knowledge, or just connecting with fellow developers. You can reach me here:
-- 📧 **Email**: sarmadanwar@example.com
-- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- 📧 **Email**: sarmadanwar118@gmail.com
+- 💼 **LinkedIn**:https://www.linkedin.com/in/sarmadanwar/
 
 ## 🎉 Fun Facts
 - 🗣️ I’m fluent in English and hold a PTE certification.
